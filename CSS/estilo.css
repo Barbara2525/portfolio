@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    padding: .5rem;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 100%;
+}
+
+body{
+    background-color:#CCCCFF;
+}
+
+div{
+    font-size: 1.25rem;
+    position: relative;
+}
+
+.section{
+    position: absolute;
+    font-family: 'Karma', serif;
+    font-style: normal;
+    font-weight: 400;
+}
